@@ -19,3 +19,5 @@ Here are some ideas to get you started:
     <img src="https://skillicons.dev/icons?i=java,python,js,html,css,apex,sql,c,fastapi&theme=dark" alt="Tech Stack" />
   </a>
 </div>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdus-typing&theme=tokyonight&show_icons=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdus-typing&theme=tokyonight&layout=compact)
