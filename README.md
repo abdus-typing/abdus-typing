@@ -111,9 +111,6 @@ Hi, Abdus here! Welcome to my GitHub! I'm a 7th-semester student based in Kolkat
   <img src="https://skillicons.dev/icons?i=github" width="45" title="GitHub" alt="GitHub"><br>
   <sub>GitHub</sub>
 </td>
-</tr>
-
-<tr>
 <td align="center">
   <img src="https://skillicons.dev/icons?i=postman" width="45" title="Postman" alt="Postman"><br>
   <sub>Postman</sub>
@@ -128,6 +125,7 @@ Hi, Abdus here! Welcome to my GitHub! I'm a 7th-semester student based in Kolkat
 </td>
 </tr>
 </table>
+
 **Salesforce & Enterprise Ecosystem:**
 - **Core:** Salesforce Admin, Apex, SOQL
 - **Integrations & Data:** SOAP API, JDBC
